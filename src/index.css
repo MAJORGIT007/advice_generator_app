@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "manrope";
+  font-weight: extra-bold;
+  src: url("../fonts/Manrope-VariableFont_wght.ttf") format("truetype");
+}
